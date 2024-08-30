@@ -18,7 +18,7 @@ You can take a look at my [Personal Projects](https://github.com/stars/dfuchss/l
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dfuchss&theme=vue&bg_color=27282200&text_color=5c6670&show_icons=true&line_height=32&hide=issues&hide_rank=true" />
 </a>
 <a href="https://github.com/dfuchss/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfuchss&theme=vue&bg_color=27282200&text_color=5c6670&show_icons=true&hide=shell,dockerfile&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfuchss&theme=vue&bg_color=27282200&text_color=5c6670&show_icons=true&hide=shell,dockerfile,html,scss,javascript,css&langs_count=3" />
 </a>
 </div>
 <!--
