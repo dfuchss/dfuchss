@@ -10,7 +10,7 @@
 
 
 ### Lists
-You can take a look at my [Personal Projects](https://github.com/stars/dfuchss/lists/personal-projects), my [Active Forks](https://github.com/stars/dfuchss/lists/active-forks), or my [Research related Projects](https://github.com/stars/dfuchss/lists/tlr).
+You can take a look at my [Personal Projects](https://github.com/stars/dfuchss/lists/personal-projects) or my [Research related Projects](https://github.com/stars/dfuchss/lists/tlr).
 
 ### Statistics
 <div>
