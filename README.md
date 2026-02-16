@@ -6,6 +6,9 @@
 <a href="https://gitlab.com/dfuchss">
   <img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" width="50"/>
 </a>
+<a href="https://codeberg.org/dfuchss">
+  <img align="center" src="https://design.codeberg.org/logo-kit/icon_inverted.svg" width="30"/>
+</a>
 </div>
 
 
