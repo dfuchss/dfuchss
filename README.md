@@ -4,7 +4,7 @@
   <img align="center" src="https://git.fuchss.org/assets/img/logo.svg" width="40"/>
 </a>
 <a href="https://gitlab.com/dfuchss">
-  <img align="center" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" width="50"/>
+  <img align="center" src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.svg" width="50"/>
 </a>
 <a href="https://codeberg.org/dfuchss">
   <img align="center" src="https://design.codeberg.org/logo-kit/icon.svg" width="30"/>
